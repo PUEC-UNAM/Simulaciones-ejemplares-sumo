@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-01T18:58:01.272695+01:00 by Eclipse SUMO netedit v1_25_0+0094-377d0c19c3c
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <chargingStation id="1095117446" name="Campestraße" lane="206893436#3_0" startPos="31.79" endPos="46.79" friendlyPos="1"/>
+    <chargingStation id="12108381604" name="Campestraße" lane="1207164501#1_0" startPos="36.56" endPos="51.56" friendlyPos="1"/>
+    <chargingStation id="13115553497" name="Maschplatz" lane="696935242#7_0" startPos="64.33" endPos="79.33" friendlyPos="1"/>
+    <chargingStation id="13115553498" name="Maschplatz" lane="40104423_0" startPos="66.21" endPos="81.21" friendlyPos="1"/>
+    <chargingStation id="2173007125" name="Pockelsstraße" lane="525452881#1_0" startPos="9.10" endPos="24.10" friendlyPos="1"/>
+    <chargingStation id="251044906" name="Amalienplatz/Weißes Ross" lane="299910129#2_0" startPos="6.47" endPos="21.47" friendlyPos="1"/>
+    <chargingStation id="269159318" name="St. Leonhard (Stadthalle)" lane="29136146#1_0" startPos="7.37" endPos="22.37" friendlyPos="1"/>
+    <chargingStation id="269159782" name="St. Leonhard (Stadthalle)" lane="5058977#2_0" startPos="20.56" endPos="35.56" friendlyPos="1"/>
+    <chargingStation id="269160002" name="Willy-Brandt-Platz" lane="30420838#2_0" startPos="4.79" endPos="19.79" friendlyPos="1"/>
+    <chargingStation id="269160116" name="Willy-Brandt-Platz" lane="25076207#2_0" startPos="102.61" endPos="117.61" friendlyPos="1"/>
+    <chargingStation id="269953551" name="Maschplatz" lane="696935242#7_0" startPos="64.33" endPos="79.33" friendlyPos="1"/>
+    <chargingStation id="2708626053" name="Amalienplatz/Weißes Ross" lane="48861560#2_0" startPos="14.76" endPos="29.76" friendlyPos="1"/>
+    <chargingStation id="272855681" name="Cyriaksring" lane="32905529#2_0" startPos="9.02" endPos="24.02" friendlyPos="1"/>
+    <chargingStation id="272857163" name="John-F.-Kennedy-Platz" lane="32055654_0" startPos="0.00" endPos="11.88" friendlyPos="1"/>
+    <chargingStation id="3147139642" name="Braunschweig, Hauptbahnhof" lane="372159169_0" startPos="54.52" endPos="69.52" friendlyPos="1"/>
+    <chargingStation id="323111718" name="Messegelände" lane="314533287#2_0" startPos="51.76" endPos="66.76" friendlyPos="1"/>
+    <chargingStation id="337441668" name="Gliesmaroder Straße" lane="33049438#3_0" startPos="11.57" endPos="26.57" friendlyPos="1"/>
+    <chargingStation id="337442815" name="Gliesmaroder Straße" lane="35047528#3_0" startPos="5.06" endPos="20.06" friendlyPos="1"/>
+    <chargingStation id="337766463" name="Rudolfplatz" lane="7975439#2_0" startPos="27.24" endPos="42.24" friendlyPos="1"/>
+    <chargingStation id="337767290" name="Rudolfplatz" lane="31722493#0_0" startPos="0.00" endPos="15.00" friendlyPos="1"/>
+    <chargingStation id="337769798" name="Rudolfplatz" lane="7975423_0" startPos="0.00" endPos="7.18" friendlyPos="1"/>
+    <chargingStation id="337770114" name="Rudolfplatz" lane="624411668#2_0" startPos="0.00" endPos="15.00" friendlyPos="1"/>
+    <chargingStation id="337790032" name="Hamburger Straße" lane="971635952#2_0" startPos="5.45" endPos="20.45" friendlyPos="1"/>
+    <chargingStation id="337790340" name="Hamburger Straße" lane="159066584#3_0" startPos="0.00" endPos="8.10" friendlyPos="1"/>
+    <chargingStation id="338088811" name="Braunschweig, Hauptbahnhof" lane="32353233#1_0" startPos="57.73" endPos="72.73" friendlyPos="1"/>
+    <chargingStation id="345848432" name="Bültenweg" lane="577566275#2_0" startPos="15.12" endPos="30.12" friendlyPos="1"/>
+    <chargingStation id="345848933" name="Hans-Sommer-Straße" lane="525452874_0" startPos="10.97" endPos="25.97" friendlyPos="1"/>
+    <chargingStation id="367891393" name="Maienstraße" lane="106531540#2_0" startPos="11.45" endPos="26.45" friendlyPos="1"/>
+    <chargingStation id="367891451" name="Maienstraße" lane="231661249#2_0" startPos="11.09" endPos="26.09" friendlyPos="1"/>
+    <chargingStation id="367891514" name="Kälberwiese" lane="31722496#7_0" startPos="13.68" endPos="28.68" friendlyPos="1"/>
+    <chargingStation id="367891520" name="Kälberwiese" lane="231661249#9_0" startPos="13.72" endPos="28.72" friendlyPos="1"/>
+    <chargingStation id="369313965" name="Cyriaksring" lane="385335099#2_0" startPos="7.29" endPos="22.29" friendlyPos="1"/>
+    <chargingStation id="369388750" name="Helenenstraße" lane="385335115#1_0" startPos="15.57" endPos="30.57" friendlyPos="1"/>
+    <chargingStation id="370699071" name="Helenenstraße" lane="626854757#2_0" startPos="15.69" endPos="30.69" friendlyPos="1"/>
+    <chargingStation id="3794742894" name="Madamenweg" lane="42128193#1_0" startPos="55.74" endPos="70.74" friendlyPos="1"/>
+    <chargingStation id="3794742895" name="Madamenweg" lane="1160483811#1_0" startPos="23.59" endPos="38.59" friendlyPos="1"/>
+    <chargingStation id="382014253" name="Fabrikstraße" lane="385335102#2_0" startPos="13.07" endPos="28.07" friendlyPos="1"/>
+    <chargingStation id="3883988442" name="Fabrikstraße" lane="385335116#1_0" startPos="14.23" endPos="29.23" friendlyPos="1"/>
+    <chargingStation id="4034702790" name="Otto-von-Guericke-Straße" lane="311549885#0_0" startPos="77.81" endPos="92.81" friendlyPos="1"/>
+    <chargingStation id="428114226" name="Jasperallee" lane="30424681#1_0" startPos="5.84" endPos="20.84" friendlyPos="1"/>
+    <chargingStation id="428114238" name="Jasperallee" lane="23207367#1_0" startPos="9.58" endPos="24.58" friendlyPos="1"/>
+    <chargingStation id="4448521239" name="Pockelsstraße" lane="30425847#5_0" startPos="0.35" endPos="15.35" friendlyPos="1"/>
+    <chargingStation id="4578931503" name="Maschplatz" lane="62089686#0_0" startPos="0.00" endPos="1.10" friendlyPos="1"/>
+    <chargingStation id="544526384" name="Otto-von-Guericke-Straße" lane="32055649#1_0" startPos="10.06" endPos="25.06" friendlyPos="1"/>
+    <chargingStation id="544531237" name="Messegelände" lane="655716537#2_0" startPos="20.29" endPos="35.29" friendlyPos="1"/>
+    <chargingStation id="544533393" name="Theodor-Heuss-Straße" lane="127240643#16_0" startPos="0.00" endPos="15.00" friendlyPos="1"/>
+    <chargingStation id="544533394" name="Theodor-Heuss-Straße" lane="59393470#3_0" startPos="1.24" endPos="16.24" friendlyPos="1"/>
+    <chargingStation id="5624015120" name="Johannes-Selenka-Platz" lane="1138038992#0_0" startPos="0.00" endPos="15.00" friendlyPos="1"/>
+    <chargingStation id="6503377116" name="Kastanienallee" lane="321714431#2_0" startPos="10.15" endPos="25.15" friendlyPos="1"/>
+    <chargingStation id="6503384568" name="Kastanienallee" lane="321714432#2_0" startPos="10.65" endPos="25.65" friendlyPos="1"/>
+    <chargingStation id="7843078879" name="John-F.-Kennedy-Platz" lane="5059167#3_0" startPos="11.99" endPos="26.99" friendlyPos="1"/>
+    <chargingStation id="80131267" name="Johannes-Selenka-Platz" lane="68327840#3_0" startPos="4.82" endPos="19.82" friendlyPos="1"/>
+</additional>

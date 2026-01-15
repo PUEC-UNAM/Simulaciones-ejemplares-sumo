@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-12-01T18:58:01.273763+01:00 by Eclipse SUMO netedit v1_25_0+0094-377d0c19c3c
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="-1021653968" name="Weinbergstraße" lane="-8074215#6_0" startPos="5.38" endPos="20.38" friendlyPos="1" lines="418"/>
+    <busStop id="-1021653972" name="Pfingststraße" lane="-1175125573#2_0" startPos="21.79" endPos="36.79" friendlyPos="1" lines="418"/>
+    <busStop id="-1484563060" name="Hermannstraße" lane="-367772443#2_0" startPos="29.08" endPos="44.08" friendlyPos="1" lines="422"/>
+    <busStop id="-2381056723" name="Tuckermannstraße" lane="-106531541#0_0" startPos="14.97" endPos="29.97" friendlyPos="1" lines="422"/>
+    <busStop id="-2444575725" name="Braunschweig Hauptbahnhof" lane="-31238527#0_0" startPos="70.37" endPos="270.37" friendlyPos="1" lines="RE60 RE70"/>
+    <busStop id="-268979537" name="Nussbergstraße" lane="-60151069#2_0" startPos="14.99" endPos="29.99" friendlyPos="1" lines="422 423"/>
+    <busStop id="-270105899" name="Altstadtmarkt" lane="-625229903_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422 423 450 560 416 411 480 418 413"/>
+    <busStop id="-297805411" name="Steintor" lane="-23201670#0_0" startPos="63.63" endPos="78.63" friendlyPos="1" lines="413"/>
+    <busStop id="-310387602" name="Bebelhof" lane="-720599785#0_0" startPos="16.45" endPos="31.45" friendlyPos="1" lines="411 431"/>
+    <busStop id="-333163293" name="Braunschweig Hauptbahnhof" lane="-30242870#0_0" startPos="50.88" endPos="250.88" friendlyPos="1" lines="RB 43 RB 42"/>
+    <busStop id="-335753779" name="Staatstheater" lane="-171756596_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="416"/>
+    <busStop id="-335811224" name="Güldenstraße" lane="-720357349#1_0" startPos="3.65" endPos="18.65" friendlyPos="1" lines="423 418 422"/>
+    <busStop id="-335811606" name="Madamenweg" lane="-8078963#3_0" startPos="28.84" endPos="43.84" friendlyPos="1" lines="418"/>
+    <busStop id="-3420284345" name="Am Klosterkamp" lane="-4743786#1_0" startPos="44.17" endPos="59.17" friendlyPos="1" lines="413 435"/>
+    <busStop id="-3420284346" name="Friedrich-Seele-Straße" lane="-4743786#0_0" startPos="372.55" endPos="387.55" friendlyPos="1" lines="413 435"/>
+    <busStop id="-4071760550" name="Maienstraße" lane="-103495995#1_0" startPos="14.90" endPos="29.90" friendlyPos="1" lines="422"/>
+    <busStop id="-4081020665" name="Busbahnhof Braunschweig ZOB" lane="-267726634#0_0" startPos="0.00" endPos="8.55" friendlyPos="1" lines="105 267 N67 167 164 N14 064 N66"/>
+    <busStop id="-433962472" name="An den Gärtnerhöfen" lane="-1128245688#2_0" startPos="12.41" endPos="27.41" friendlyPos="1" lines="423"/>
+    <busStop id="-4420481310" name="Staatstheater" lane="-171756596_0" startPos="4.20" endPos="19.20" friendlyPos="1" lines="423 230 413 411 412"/>
+    <busStop id="-4578182184" name="Hugo-Luther-Straße" lane="-1159998199#0_0" startPos="0.00" endPos="11.21" friendlyPos="1" lines="423"/>
+    <busStop id="-492080041" name="Madamenweg" lane="-1123379566_0" startPos="15.60" endPos="30.60" friendlyPos="1" lines="418"/>
+    <busStop id="-5653296848" name="Am Magnitor" lane="-23298006_0" startPos="50.48" endPos="65.48" friendlyPos="1" lines="412"/>
+    <busStop id="-57883704" name="Bildungszentrum BFD" lane="-361120214#4_0" startPos="18.27" endPos="33.27" friendlyPos="1" lines="422"/>
+    <busStop id="-583283132" name="Rathaus" lane="-1079381258_0" startPos="0.00" endPos="1.62" friendlyPos="1" lines="423 230 413 416 411 418 412"/>
+    <busStop id="-6071616357" name="Marienstift" lane="-375217310#0_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422 412"/>
+    <busStop id="-822623518" name="Goslarsche Straße" lane="-106531547_0" startPos="11.45" endPos="26.45" friendlyPos="1" lines="423 418 422"/>
+    <busStop id="-826166083" name="Hebbelstraße" lane="-246580791#0_0" startPos="74.04" endPos="89.04" friendlyPos="1" lines="423"/>
+    <busStop id="-82684762" name="Julius-Konegen-Straße" lane="-10522152#5_0" startPos="0.00" endPos="1.41" friendlyPos="1" lines="422"/>
+    <busStop id="-8617962588" name="Bahnhof Gliesmarode" lane="-26147813#1_0" startPos="33.57" endPos="48.57" friendlyPos="1" lines="433 230"/>
+    <busStop id="1095117446" name="Campestraße" lane="206893436#3_0" startPos="31.79" endPos="46.79" friendlyPos="1" lines="426 730 420 431"/>
+    <busStop id="1204082952" name="Hildesheimer Straße" lane="666433619_0" startPos="17.20" endPos="32.20" friendlyPos="1" lines="450 411 560 431 433"/>
+    <busStop id="12108381604" name="Campestraße" lane="1207164501#1_0" startPos="36.56" endPos="51.56" friendlyPos="1" lines="730 420 426 431"/>
+    <busStop id="1223820160" name="Maschstraße" lane="375727027#7_0" startPos="13.17" endPos="28.17" friendlyPos="1" lines="450 560 416 411 480"/>
+    <busStop id="12779245877" name="Pockelsstraße" lane="1380367516#2_0" startPos="10.33" endPos="25.33" friendlyPos="1" lines="426"/>
+    <busStop id="13115553497" name="Maschplatz" lane="696935242#7_0" startPos="64.33" endPos="79.33" friendlyPos="1" lines="426 419"/>
+    <busStop id="13115553498" name="Maschplatz" lane="40104423_0" startPos="66.21" endPos="81.21" friendlyPos="1" lines="419 426"/>
+    <busStop id="1484563060" name="Hermannstraße" lane="367772443#1_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422"/>
+    <busStop id="1515856077" name="Rathaus" lane="314841164#0_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422 423 450 560 416 411 480 418 230 412 413"/>
+    <busStop id="1741027767" name="Holzhof (Volkswagenhalle)" lane="127240643#3_0" startPos="5.85" endPos="20.85" friendlyPos="1" lines="426 413"/>
+    <busStop id="2173007125" name="Pockelsstraße" lane="525452881#1_0" startPos="9.10" endPos="24.10" friendlyPos="1" lines="419 433"/>
+    <busStop id="2304877704" name="Klinikum Celler Straße" lane="374169546#5_0" startPos="4.34" endPos="19.34" friendlyPos="1" lines="480 416"/>
+    <busStop id="2304877706" name="Bei dem Gerichte" lane="851598081#2_0" startPos="24.36" endPos="39.36" friendlyPos="1" lines="480 416"/>
+    <busStop id="2444575725" name="Braunschweig Hauptbahnhof" lane="314921096#1_0" startPos="96.19" endPos="296.19" friendlyPos="1" lines="RE60 RE70"/>
+    <busStop id="249296943" name="Hugo-Luther-Straße" lane="1159998199#1_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="423"/>
+    <busStop id="251044906" name="Amalienplatz/Weißes Ross" lane="299910129#2_0" startPos="6.47" endPos="21.47" friendlyPos="1" lines="426 419 433"/>
+    <busStop id="251044916" name="Amalienplatz/Weißes Ross" lane="83723985#2_0" startPos="7.40" endPos="22.40" friendlyPos="1" lines="450 560 416 480"/>
+    <busStop id="257994938" name="Kasernenstraße" lane="23095961#8_0" startPos="2.90" endPos="17.90" friendlyPos="1" lines="422 423 416 411"/>
+    <busStop id="26581540" name="Beethovenstraße" lane="4543873#4_0" startPos="36.66" endPos="51.66" friendlyPos="1" lines="433"/>
+    <busStop id="268979641" name="Nussbergstraße" lane="60151069#3_0" startPos="21.87" endPos="36.87" friendlyPos="1" lines="423"/>
+    <busStop id="269159318" name="St. Leonhard (Stadthalle)" lane="29136146#1_0" startPos="7.37" endPos="22.37" friendlyPos="1" lines="436 419 411"/>
+    <busStop id="269159782" name="St. Leonhard (Stadthalle)" lane="5058977#2_0" startPos="20.56" endPos="35.56" friendlyPos="1" lines="436 419 411"/>
+    <busStop id="269160002" name="Willy-Brandt-Platz" lane="30420838#2_0" startPos="4.79" endPos="19.79" friendlyPos="1" lines="430 436 419 411 482"/>
+    <busStop id="269160116" name="Willy-Brandt-Platz" lane="25076207#2_0" startPos="102.61" endPos="117.61" friendlyPos="1" lines="430 730 436 419 482 411"/>
+    <busStop id="269513036" name="Kasernenstraße" lane="178631879#10_0" startPos="12.30" endPos="27.30" friendlyPos="1" lines="423 416 411"/>
+    <busStop id="269953551" name="Maschplatz" lane="696935242#7_0" startPos="64.33" endPos="79.33" friendlyPos="1" lines="426 419 433"/>
+    <busStop id="270066352" name="Münzstraße" lane="5021504_0" startPos="40.10" endPos="55.10" friendlyPos="1" lines="422 423 450 560 416 411 480 418 413"/>
+    <busStop id="270148915" name="Rathaus" lane="27220201#3_0" startPos="16.94" endPos="31.94" friendlyPos="1" lines="730 420 620 601"/>
+    <busStop id="2708626053" name="Amalienplatz/Weißes Ross" lane="48861560#2_0" startPos="14.76" endPos="29.76" friendlyPos="1" lines="419 450 426 560 433"/>
+    <busStop id="272855681" name="Cyriaksring" lane="32905529#2_0" startPos="9.02" endPos="24.02" friendlyPos="1" lines="426 423 419 431"/>
+    <busStop id="272855783" name="Luisenstraße" lane="10231578#3_0" startPos="23.34" endPos="38.34" friendlyPos="1" lines="431"/>
+    <busStop id="272855846" name="Luisenstraße" lane="23329778#1_0" startPos="9.47" endPos="24.47" friendlyPos="1" lines="431"/>
+    <busStop id="272856305" name="Europaplatz" lane="122119622#1_0" startPos="20.03" endPos="35.03" friendlyPos="1" lines="620 601 431"/>
+    <busStop id="272856887" name="Am Wassertor (Volkswagenhalle)" lane="316791983#0_0" startPos="0.00" endPos="14.40" friendlyPos="1" lines="620 426 601 431"/>
+    <busStop id="272856917" name="John-F.-Kennedy-Platz" lane="43328051#2_0" startPos="27.31" endPos="42.31" friendlyPos="1" lines="730 420 426 431"/>
+    <busStop id="272857163" name="John-F.-Kennedy-Platz" lane="32055654_0" startPos="0.00" endPos="11.88" friendlyPos="1" lines="426 431"/>
+    <busStop id="282832479" name="Radeklint" lane="23208546#3_0" startPos="57.21" endPos="72.21" friendlyPos="1" lines="450 560 416 411 480"/>
+    <busStop id="282832480" name="Radeklint" lane="30424335#2_0" startPos="19.04" endPos="34.04" friendlyPos="1" lines="450 480 416 411 560"/>
+    <busStop id="2977104665" name="Rudolfplatz" lane="7975431#2_0" startPos="0.00" endPos="0.20" friendlyPos="1" lines="411"/>
+    <busStop id="299530289" name="Schloss" lane="25730281#1_0" startPos="0.00" endPos="3.14" friendlyPos="1" lines="730 620 601 420"/>
+    <busStop id="302112841" name="Bürgerpark" lane="33289080#2_0" startPos="46.65" endPos="61.65" friendlyPos="1" lines="420"/>
+    <busStop id="309922823" name="Bürgerpark" lane="320432219#0_0" startPos="17.82" endPos="32.82" friendlyPos="1" lines="420"/>
+    <busStop id="309927513" name="Richard-Strauß-Weg" lane="33274940_0" startPos="3.22" endPos="18.22" friendlyPos="1" lines="433"/>
+    <busStop id="309927515" name="Richard-Strauß-Weg" lane="61734682#2_0" startPos="207.83" endPos="222.83" friendlyPos="1" lines="433"/>
+    <busStop id="309927517" name="Beethovenstraße" lane="512158815#0_0" startPos="13.69" endPos="28.69" friendlyPos="1" lines="433"/>
+    <busStop id="3147139642" name="Braunschweig, Hauptbahnhof" lane="372159169_0" startPos="54.52" endPos="69.52" friendlyPos="1" lines="430 730 420 436 426 419 411 431 482"/>
+    <busStop id="323110136" name="Messegelände" lane="655716530_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="435"/>
+    <busStop id="323111718" name="Messegelände" lane="314533287#2_0" startPos="51.76" endPos="66.76" friendlyPos="1" lines="426"/>
+    <busStop id="3239586757" name="Mühlenpfordtstraße" lane="317671622#0_0" startPos="0.00" endPos="2.08" friendlyPos="1" lines="10 2 1">
+        <access lane="573318268#0_0" pos="38.94" friendlyPos="1" length="5.87"/>
+    </busStop>
+    <busStop id="3239586760" name="Mühlenpfordtstraße" lane="270579796#0_0" startPos="0.00" endPos="25.00" friendlyPos="1" lines="10 2 1">
+        <access lane="573318268#0_0" pos="15.13" friendlyPos="1" length="3.75"/>
+    </busStop>
+    <busStop id="333129829" name="Braunschweig Hauptbahnhof" lane="314921093_0" startPos="0.00" endPos="149.88" friendlyPos="1" lines="RB 43 RB 42"/>
+    <busStop id="333163897" name="Braunschweig Hauptbahnhof" lane="30240668#1_0" startPos="82.61" endPos="282.61" friendlyPos="1" lines="RB 45"/>
+    <busStop id="333164383" name="Braunschweig Hauptbahnhof" lane="30642811#0_0" startPos="0.00" endPos="154.56" friendlyPos="1" lines="RB46"/>
+    <busStop id="333678399" name="Braunschweig Hauptbahnhof" lane="24677205#0_0" startPos="0.00" endPos="200.00" friendlyPos="1" lines="ICE 12 RE50 IC 56 ICE 13 IC 55"/>
+    <busStop id="333678572" name="Braunschweig Hauptbahnhof" lane="30240918_0" startPos="0.00" endPos="172.74" friendlyPos="1" lines="ICE 12 IC 56 IC 55 RE50 ICE 13"/>
+    <busStop id="333678624" name="Braunschweig Hauptbahnhof" lane="8080950#1_0" startPos="102.34" endPos="302.34" friendlyPos="1" lines="RB 40"/>
+    <busStop id="335750625" name="Hildesheimer Straße" lane="122164793#1_0" startPos="20.64" endPos="35.64" friendlyPos="1" lines="450 560 411 433 431"/>
+    <busStop id="335751922" name="Petristraße" lane="24857827#1_0" startPos="42.60" endPos="57.60" friendlyPos="1" lines="411"/>
+    <busStop id="335752012" name="Petristraße" lane="24857829#2_0" startPos="6.71" endPos="21.71" friendlyPos="1" lines="411"/>
+    <busStop id="335753779" name="Staatstheater" lane="171756596_0" startPos="24.44" endPos="39.44" friendlyPos="1" lines="422 423 416 411 230 412 413"/>
+    <busStop id="335771085" name="Schloss" lane="27220216_0" startPos="0.00" endPos="6.10" friendlyPos="1" lines="730 420 620 601"/>
+    <busStop id="335811224" name="Güldenstraße" lane="320399277_0" startPos="3.11" endPos="18.11" friendlyPos="1" lines="422"/>
+    <busStop id="337441668" name="Gliesmaroder Straße" lane="33049438#3_0" startPos="11.57" endPos="26.57" friendlyPos="1" lines="436 419 416 230"/>
+    <busStop id="337442815" name="Gliesmaroder Straße" lane="35047528#3_0" startPos="5.06" endPos="20.06" friendlyPos="1" lines="230 436 416 419"/>
+    <busStop id="337766463" name="Rudolfplatz" lane="7975439#2_0" startPos="27.24" endPos="42.24" friendlyPos="1" lines="422 419 426 431"/>
+    <busStop id="337767290" name="Rudolfplatz" lane="31722493#0_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="450 560 433"/>
+    <busStop id="337767975" name="Rudolfplatz" lane="4365024#3_0" startPos="0.00" endPos="4.00" friendlyPos="1" lines="411">
+        <access lane="10237433#2_0" pos="0.20" friendlyPos="1" length="14.08"/>
+    </busStop>
+    <busStop id="337769798" name="Rudolfplatz" lane="7975423_0" startPos="0.00" endPos="7.18" friendlyPos="1" lines="426 419 422"/>
+    <busStop id="337770114" name="Rudolfplatz" lane="624411668#2_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="450 560 433"/>
+    <busStop id="337790032" name="Hamburger Straße" lane="971635952#2_0" startPos="5.45" endPos="20.45" friendlyPos="1" lines="419 426 433"/>
+    <busStop id="337790340" name="Hamburger Straße" lane="159066584#3_0" startPos="0.00" endPos="8.10" friendlyPos="1" lines="426 419 433"/>
+    <busStop id="338088811" name="Braunschweig, Hauptbahnhof" lane="32353233#1_0" startPos="57.73" endPos="72.73" friendlyPos="1" lines="430 426 730 431 411 420">
+        <access lane="412551603#0_0" pos="6.07" friendlyPos="1" length="23.40"/>
+    </busStop>
+    <busStop id="338682809" name="Nordstraße" lane="806419383_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="436 416"/>
+    <busStop id="338683871" name="Nordstraße" lane="806419382#1_0" startPos="1.76" endPos="16.76" friendlyPos="1" lines="436 416"/>
+    <busStop id="3388048661" name="Friedrich-Wilhelm-Platz" lane="19044896#0_0" startPos="47.64" endPos="62.64" friendlyPos="1" lines="426 620 601 431"/>
+    <busStop id="3400218280" name="Am Magnitor" lane="23272948_0" startPos="26.91" endPos="41.91" friendlyPos="1" lines="412"/>
+    <busStop id="3420284342" name="Am Klosterkamp" lane="4743786#0_0" startPos="343.55" endPos="358.55" friendlyPos="1" lines="413 435"/>
+    <busStop id="343717194" name="Güldenstraße" lane="8618349#2_0" startPos="29.54" endPos="44.54" friendlyPos="1" lines="413"/>
+    <busStop id="343717363" name="Güldenstraße" lane="320814805#1_0" startPos="82.85" endPos="97.85" friendlyPos="1" lines="423 418"/>
+    <busStop id="343717895" name="Güldenstraße" lane="376743573#2_0" startPos="92.36" endPos="107.36" friendlyPos="1" lines="450 480 416 411 560"/>
+    <busStop id="343718199" name="Güldenstraße" lane="320399274#2_0" startPos="23.52" endPos="38.52" friendlyPos="1" lines="450 560 416 411 480"/>
+    <busStop id="345848432" name="Bültenweg" lane="577566275#2_0" startPos="15.12" endPos="30.12" friendlyPos="1" lines="419 433"/>
+    <busStop id="345848530" name="Hans-Sommer-Straße" lane="525452875_0" startPos="51.89" endPos="66.89" friendlyPos="1" lines="433"/>
+    <busStop id="345848933" name="Hans-Sommer-Straße" lane="525452874_0" startPos="10.97" endPos="25.97" friendlyPos="1" lines="436 416 419"/>
+    <busStop id="35511578" name="Korfesstraße" lane="207083565#0_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422"/>
+    <busStop id="362662324" name="Museumstraße" lane="332896119#1_0" startPos="2.57" endPos="17.57" friendlyPos="1" lines="412 413"/>
+    <busStop id="367891393" name="Maienstraße" lane="106531540#2_0" startPos="11.45" endPos="26.45" friendlyPos="1" lines="419 426 431"/>
+    <busStop id="367891451" name="Maienstraße" lane="231661249#2_0" startPos="11.09" endPos="26.09" friendlyPos="1" lines="426 419 431 422"/>
+    <busStop id="367891514" name="Kälberwiese" lane="31722496#7_0" startPos="13.68" endPos="28.68" friendlyPos="1" lines="422 419 426 431"/>
+    <busStop id="367891520" name="Kälberwiese" lane="231661249#9_0" startPos="13.72" endPos="28.72" friendlyPos="1" lines="426 419 431 422"/>
+    <busStop id="369313965" name="Cyriaksring" lane="385335099#2_0" startPos="7.29" endPos="22.29" friendlyPos="1" lines="620 423 426 601"/>
+    <busStop id="369388750" name="Helenenstraße" lane="385335115#1_0" startPos="15.57" endPos="30.57" friendlyPos="1" lines="620 423 426"/>
+    <busStop id="370699071" name="Helenenstraße" lane="626854757#2_0" startPos="15.69" endPos="30.69" friendlyPos="1" lines="426 620 423 601"/>
+    <busStop id="3775597857" name="Klinikum Celler Straße" lane="319192876#10_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="416 480"/>
+    <busStop id="3790696287" name="Maschstraße" lane="394076960#1_0" startPos="9.57" endPos="24.57" friendlyPos="1" lines="450 480 416 411 560"/>
+    <busStop id="3794742894" name="Madamenweg" lane="42128193#1_0" startPos="55.74" endPos="70.74" friendlyPos="1" lines="426 423 419 431"/>
+    <busStop id="3794742895" name="Madamenweg" lane="1160483811#1_0" startPos="23.59" endPos="38.59" friendlyPos="1" lines="419 423 426 431"/>
+    <busStop id="382014253" name="Fabrikstraße" lane="385335102#2_0" startPos="13.07" endPos="28.07" friendlyPos="1" lines="620 426 601"/>
+    <busStop id="3882542171" name="Cyriaksring" lane="30998338#2_0" startPos="28.16" endPos="43.16" friendlyPos="1" lines="419"/>
+    <busStop id="3882542173" name="Cyriaksring" lane="32755712#2_0" startPos="48.25" endPos="63.25" friendlyPos="1" lines="620 601 431"/>
+    <busStop id="3883988442" name="Fabrikstraße" lane="385335116#1_0" startPos="14.23" endPos="29.23" friendlyPos="1" lines="426 620 601"/>
+    <busStop id="3905332675" name="Braunschweig Hauptbahnhof" lane="30240668#1_0" startPos="108.37" endPos="308.37" friendlyPos="1" lines="RB44 RB48"/>
+    <busStop id="4034702790" name="Otto-von-Guericke-Straße" lane="311549885#0_0" startPos="77.81" endPos="92.81" friendlyPos="1" lines="426 413 435"/>
+    <busStop id="4089838969" name="Amalienplatz/Weißes Ross" lane="7975424#4_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="480 416"/>
+    <busStop id="428114218" name="Jasperallee" lane="934031245#2_0" startPos="0.11" endPos="15.11" friendlyPos="1" lines="422 423"/>
+    <busStop id="428114226" name="Jasperallee" lane="30424681#1_0" startPos="5.84" endPos="20.84" friendlyPos="1" lines="436 419 411">
+        <access lane="316764341#2_0" pos="2.13" friendlyPos="1" length="21.06"/>
+    </busStop>
+    <busStop id="428114232" name="Jasperallee" lane="30429265#2_0" startPos="24.02" endPos="39.02" friendlyPos="1" lines="423 230 416 411"/>
+    <busStop id="428114238" name="Jasperallee" lane="23207367#1_0" startPos="9.58" endPos="24.58" friendlyPos="1" lines="436 419 416 230"/>
+    <busStop id="4397192313" name="Altstadtmarkt" lane="625229902_0" startPos="0.00" endPos="11.73" friendlyPos="1" lines="413 423 450 480 416 411 560 418 422"/>
+    <busStop id="4397192314" name="Hintern Brüdern" lane="307200571#1_0" startPos="25.43" endPos="40.43" friendlyPos="1" lines="413 423 450 480 416 411 560 418 422"/>
+    <busStop id="441570856" name="Museumstraße" lane="5170414#0_0" startPos="0.00" endPos="5.66" friendlyPos="1" lines="413"/>
+    <busStop id="4420461454" name="Julius-Konegen-Straße" lane="10522152#7_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="422"/>
+    <busStop id="4420461456" name="Hermannstraße" lane="10522156#7_0" startPos="1.78" endPos="16.78" friendlyPos="1" lines="422"/>
+    <busStop id="4420461459" name="Tuckermannstraße" lane="1180056915#1_0" startPos="52.61" endPos="67.61" friendlyPos="1" lines="422"/>
+    <busStop id="4420481309" name="Goslarsche Straße" lane="1138409936#1_0" startPos="23.76" endPos="38.76" friendlyPos="1" lines="422 423 418"/>
+    <busStop id="4421874218" name="Hauptbahnhof Süd" lane="361120213#1_0" startPos="26.41" endPos="41.41" friendlyPos="1" lines="422"/>
+    <busStop id="4448521239" name="Pockelsstraße" lane="30425847#5_0" startPos="0.35" endPos="15.35" friendlyPos="1" lines="419 433"/>
+    <busStop id="4451891809" name="Weinbergstraße" lane="8074215#6_0" startPos="5.40" endPos="20.40" friendlyPos="1" lines="418"/>
+    <busStop id="4451891810" name="Pfingststraße" lane="1175125573#3_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="418"/>
+    <busStop id="4451891811" name="Steintor" lane="5059203_0" startPos="19.31" endPos="34.31" friendlyPos="1" lines="413"/>
+    <busStop id="4578182182" name="An den Gärtnerhöfen" lane="1128245688#2_0" startPos="12.43" endPos="27.43" friendlyPos="1" lines="423"/>
+    <busStop id="4578182183" name="Hebbelstraße" lane="1128251420#1_0" startPos="12.80" endPos="27.80" friendlyPos="1" lines="423"/>
+    <busStop id="4578931503" name="Maschplatz" lane="62089686#0_0" startPos="0.00" endPos="1.10" friendlyPos="1" lines="419 426 433">
+        <access lane="462507196_0" pos="0.00" friendlyPos="1" length="4.50"/>
+    </busStop>
+    <busStop id="5414153120" name="St. Leonhard (Stadthalle)" lane="293576921#0_0" startPos="33.30" endPos="58.30" friendlyPos="1" lines="4 412"/>
+    <busStop id="5428806609" name="Ackerstraße" lane="563320575#3_0" startPos="24.66" endPos="39.66" friendlyPos="1" lines="430 730 422 482 412"/>
+    <busStop id="5428806610" name="Ackerstraße" lane="563320574#1_0" startPos="30.49" endPos="45.49" friendlyPos="1" lines="430 730 482 412"/>
+    <busStop id="544526384" name="Otto-von-Guericke-Straße" lane="32055649#1_0" startPos="10.06" endPos="25.06" friendlyPos="1" lines="426"/>
+    <busStop id="544531237" name="Messegelände" lane="655716537#2_0" startPos="20.29" endPos="35.29" friendlyPos="1" lines="426 413 435"/>
+    <busStop id="544533393" name="Theodor-Heuss-Straße" lane="127240643#16_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="426 413"/>
+    <busStop id="544533394" name="Theodor-Heuss-Straße" lane="59393470#3_0" startPos="1.24" endPos="16.24" friendlyPos="1" lines="426"/>
+    <busStop id="544541081" name="Holzhof (Volkswagenhalle)" lane="59393474#5_0" startPos="55.35" endPos="70.35" friendlyPos="1" lines="426"/>
+    <busStop id="5624015120" name="Johannes-Selenka-Platz" lane="1138038992#0_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="419 423 426 431"/>
+    <busStop id="585140525" name="Südstraße" lane="319389908#0_0" startPos="58.19" endPos="73.19" friendlyPos="1" lines="413"/>
+    <busStop id="6071616362" name="Marienstift" lane="578374653#0_0" startPos="0.00" endPos="10.13" friendlyPos="1" lines="412"/>
+    <busStop id="6399312055" name="Mittelweg" lane="484594390#2_0" startPos="29.37" endPos="44.37" friendlyPos="1" lines="426"/>
+    <busStop id="6503377116" name="Kastanienallee" lane="321714431#2_0" startPos="10.15" endPos="25.15" friendlyPos="1" lines="436 419 411"/>
+    <busStop id="6503384568" name="Kastanienallee" lane="321714432#2_0" startPos="10.65" endPos="25.65" friendlyPos="1" lines="436 419 411"/>
+    <busStop id="655300197" name="Hamburger Straße" lane="270579796#5_0" startPos="63.07" endPos="88.07" friendlyPos="1" lines="10 2 1">
+        <access lane="5139386#1_0" pos="69.88" friendlyPos="1" length="22.32"/>
+        <access lane="5139388#2_0" pos="10.88" friendlyPos="1" length="16.17"/>
+    </busStop>
+    <busStop id="655312126" name="John-F.-Kennedy-Platz" lane="51353826#2_0" startPos="13.03" endPos="28.03" friendlyPos="1" lines="730 620 601 420"/>
+    <busStop id="6831101144" name="Am Jödebrunnen" lane="729126224#1_0" startPos="18.39" endPos="33.39" friendlyPos="1" lines="419"/>
+    <busStop id="6831101146" name="Am Jödebrunnen" lane="729126225#2_0" startPos="0.00" endPos="15.00" friendlyPos="1" lines="419"/>
+    <busStop id="747350793" name="Stadtpark" lane="533525960#2_0" startPos="25.31" endPos="40.31" friendlyPos="1" lines="423"/>
+    <busStop id="747350821" name="Stadtpark" lane="41290240#1_0" startPos="8.47" endPos="23.47" friendlyPos="1" lines="422 423"/>
+    <busStop id="757436879" name="Europaplatz" lane="1138038752#2_0" startPos="15.72" endPos="30.72" friendlyPos="1" lines="620 601 431"/>
+    <busStop id="765881522" name="Rathaus" lane="27220209#2_0" startPos="10.63" endPos="25.63" friendlyPos="1" lines="730 620 601 420"/>
+    <busStop id="7843078879" name="John-F.-Kennedy-Platz" lane="5059167#3_0" startPos="11.99" endPos="26.99" friendlyPos="1" lines="620 601">
+        <access lane="-1349514308#0_0" pos="0.00" friendlyPos="1" length="47.76"/>
+        <access lane="1349514308#0_0" pos="26.48" friendlyPos="1" length="43.62"/>
+    </busStop>
+    <busStop id="80131267" name="Johannes-Selenka-Platz" lane="68327840#3_0" startPos="4.82" endPos="19.82" friendlyPos="1" lines="426 423 419 431"/>
+    <busStop id="8617962588" name="Bahnhof Gliesmarode" lane="26147813#1_0" startPos="33.04" endPos="48.04" friendlyPos="1" lines="230 433"/>
+    <busStop id="90582729" name="Bei dem Gerichte" lane="319192876#1_0" startPos="3.96" endPos="18.96" friendlyPos="1" lines="416 480"/>
+    <busStop id="940492372" name="Berliner Platz" lane="393079240_0" startPos="153.83" endPos="168.83" friendlyPos="1" lines="431 411"/>
+    <busStop id="940492375" name="Berliner Platz" lane="25076294#0_0" startPos="0.00" endPos="6.17" friendlyPos="1" lines="411 431"/>
+</additional>

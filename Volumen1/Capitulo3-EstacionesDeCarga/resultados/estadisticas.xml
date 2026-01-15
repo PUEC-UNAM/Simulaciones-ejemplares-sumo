@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-01-06T08:47:24.866515+01:00 by Eclipse SUMO GUI v1_25_0+0804-21839973e7f
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\braunschweig.net.xml.gz"/>
+        <route-files value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\buses.rou.xml,D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\autos.trips.xml"/>
+        <additional-files value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\busStops.add.xml,D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\chargingStations.add.xml,D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\output.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\resultados/tripinfo.xml"/>
+        <stop-output value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\resultados/stopinfo.xml"/>
+        <statistic-output value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\resultados/estadisticas.xml"/>
+    </output>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <tls.actuated.jam-threshold value="30"/>
+    </processing>
+
+    <routing>
+        <device.rerouting.adaptation-steps value="18"/>
+        <device.rerouting.adaptation-interval value="10"/>
+    </routing>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <gui_only>
+        <gui-settings-file value="D:\UNAM\material-SUMO-UNAM\Simulaciones\Volumen1-EstacionesDeCarga\simulacion.view.xml"/>
+    </gui_only>
+
+</sumoConfiguration>
+-->
+
+<statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
+    <performance clockBegin="2818.81" clockEnd="3037.18" clockDuration="218.37" traciDuration="39.50" realTimeFactor="38.12" vehicleUpdatesPerSecond="16050.52" personUpdatesPerSecond="0.00" begin="0.00" end="8324.00" duration="8324.00"/>
+    <vehicles loaded="4239" inserted="4239" running="0" waiting="0"/>
+    <teleports total="105" jam="34" yield="54" wrongLane="17"/>
+    <safety collisions="0" emergencyStops="0" emergencyBraking="0"/>
+    <persons loaded="0" running="0" jammed="0"/>
+    <personTeleports total="0" abortWait="0" wrongDest="0"/>
+    <vehicleTripStatistics count="4239" routeLength="3056.01" speed="5.00" duration="826.83" waitingTime="432.56" timeLoss="551.04" departDelay="10.44" departDelayWaiting="-1.00" totalTravelTime="3504953.00" totalDepartDelay="44239.79"/>
+    <pedestrianStatistics number="0" routeLength="0.00" duration="0.00" timeLoss="0.00"/>
+    <rideStatistics number="0"/>
+    <transportStatistics number="0"/>
+</statistics>
