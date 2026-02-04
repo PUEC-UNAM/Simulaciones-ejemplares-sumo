@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-02-27 19:00:45.299671 by randomTrips.py v1_19_0+0000-baa66a0f364
+<configuration>
+    <net-file value="CHSOLO.net.xml"/>
+    <output-trip-file value="aleatorio.rou.xml"/>
+    <insertion-rate value="60.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="Cr11-5" to="1082593908#1"/>
+    <trip id="1" depart="60.00" from="C3-1a" to="C2-13"/>
+    <trip id="2" depart="120.00" from="Cr13-8" to="Cr12-5"/>
+    <trip id="3" depart="180.00" from="Cr7-6" to="503834608#1"/>
+    <trip id="4" depart="240.00" from="C6-1" to="1082593909#1"/>
+    <trip id="5" depart="300.00" from="C2-13" to="C7-10A"/>
+    <trip id="6" depart="360.00" from="1082593908#0" to="C1-8"/>
+    <trip id="7" depart="420.00" from="Cr11-7" to="C8-2"/>
+    <trip id="8" depart="480.00" from="C2-13" to="CR6-8"/>
+    <trip id="9" depart="540.00" from="Cr5-2" to="-53541454#0"/>
+    <trip id="10" depart="600.00" from="Cr5-1" to="Cr13-1"/>
+    <trip id="11" depart="660.00" from="C4-4" to="908895764"/>
+    <trip id="12" depart="720.00" from="Cr9-4" to="C4-2"/>
+    <trip id="13" depart="780.00" from="503834608#1" to="53436536#7"/>
+    <trip id="14" depart="840.00" from="Cr6-5" to="Cr10-1"/>
+    <trip id="15" depart="900.00" from="Cr5-1" to="Cr13-8"/>
+    <trip id="16" depart="960.00" from="C8-1" to="Cr9-9"/>
+    <trip id="17" depart="1020.00" from="C5-4" to="C8-4"/>
+    <trip id="18" depart="1080.00" from="Cr6-1" to="Cr10-4"/>
+    <trip id="19" depart="1140.00" from="Cr7-1" to="C9-2"/>
+    <trip id="20" depart="1200.00" from="Cr13-1" to="28914221#2"/>
+    <trip id="21" depart="1260.00" from="C2-14" to="C3-2a"/>
+    <trip id="22" depart="1320.00" from="503832595" to="C2-15"/>
+    <trip id="23" depart="1380.00" from="53436536#7" to="C3-1a"/>
+    <trip id="24" depart="1440.00" from="Cr11-4" to="C4-8"/>
+    <trip id="25" depart="1500.00" from="C5-2" to="C2-10"/>
+    <trip id="26" depart="1560.00" from="C2-9" to="Cr9-1"/>
+    <trip id="27" depart="1620.00" from="Cr11-7" to="Cr10-2"/>
+    <trip id="28" depart="1680.00" from="C1-2" to="Cr13-7"/>
+    <trip id="29" depart="1740.00" from="910091380" to="C5-2"/>
+    <trip id="30" depart="1800.00" from="E1" to="Cr11-5"/>
+    <trip id="31" depart="1860.00" from="C8-5" to="Cr12-7"/>
+    <trip id="32" depart="1920.00" from="Cr6-4" to="Cr3-7"/>
+    <trip id="33" depart="1980.00" from="C2-15" to="1082593909#1"/>
+    <trip id="34" depart="2040.00" from="C4-10" to="C2-9"/>
+    <trip id="35" depart="2100.00" from="C2-11" to="Cr9-2"/>
+    <trip id="36" depart="2160.00" from="Cr7-3" to="C4-1"/>
+    <trip id="37" depart="2220.00" from="Cr11-8" to="C5-6"/>
+    <trip id="38" depart="2280.00" from="Cr8-2" to="C6-3"/>
+    <trip id="39" depart="2340.00" from="C2-8" to="C2-4"/>
+    <trip id="40" depart="2400.00" from="C9-1" to="C2-8"/>
+    <trip id="41" depart="2460.00" from="C9-4" to="Cr7-8"/>
+    <trip id="42" depart="2520.00" from="C5-8" to="C2-12"/>
+    <trip id="43" depart="2580.00" from="cr13-9" to="C7-2"/>
+    <trip id="44" depart="2640.00" from="503834608#1" to="28914221#3"/>
+    <trip id="45" depart="2700.00" from="53436548#1" to="Cr11-10"/>
+    <trip id="46" depart="2760.00" from="Cr4-3" to="C5-9B"/>
+    <trip id="47" depart="2820.00" from="28914403" to="C5-3"/>
+    <trip id="48" depart="2880.00" from="cr13-9" to="C7-6"/>
+    <trip id="49" depart="2940.00" from="Cr9-7" to="Cr7-1"/>
+    <trip id="50" depart="3000.00" from="-53481358" to="Cr13-6"/>
+    <trip id="51" depart="3060.00" from="Cr12-5" to="C7-9"/>
+    <trip id="52" depart="3120.00" from="C2-9" to="Cr11-5"/>
+    <trip id="53" depart="3180.00" from="53436548#1" to="C6-10A"/>
+    <trip id="54" depart="3240.00" from="C6-2" to="Cr9-4"/>
+    <trip id="55" depart="3300.00" from="Cr7-3" to="C2-8"/>
+    <trip id="56" depart="3360.00" from="C7-10A" to="C1-3"/>
+    <trip id="57" depart="3420.00" from="Cr8-2" to="Cr7-2"/>
+    <trip id="58" depart="3480.00" from="C3-4" to="Cr11-5"/>
+    <trip id="59" depart="3540.00" from="Cr10-2" to="908895764"/>
+</routes>

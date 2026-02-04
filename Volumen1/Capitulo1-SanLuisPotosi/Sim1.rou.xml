@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-02-26 14:32:08 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Routes -->
+    <route id="r_0" edges="Cr4-1 C2-4 C2-5 C2-6 C2-7 C2-8 C2-9 C2-10 Cr9-4 Cr9-5 Cr9-6 C4-7 Cr10-2 Cr10-3 Cr10-4 C6-9A C6-8A Cr8-4 Cr8-5 Cr8-6 Cr8-7"/>
+    <route id="r_1" edges="Cr4-1 Cr4-2 Cr4-3 C4-2 C4-3 C4-4 C4-5 Cr8-1 Cr8-2 Cr8-3 Cr8-4 Cr8-5 Cr8-6 Cr8-7"/>
+    <route id="r_10" edges="C5-9 C5-8 C5-7 C5-6 C5-5 C5-4 C5-3 C5-2 28914221#3 Cr6-5 C3-4 Cr5-2 Cr5-1"/>
+    <route id="r_11" edges="C9-10 C5-9 C5-8 Cr12-7 Cr12-8 Cr12-9 C6-11A C6-10A C6-9A C6-8A Cr8-4 Cr8-5 Cr8-6 Cr8-7"/>
+    <route id="r_12" edges="Cr9-3 C2-10 Cr9-4 Cr9-5 Cr9-6 C4-7 Cr10-2 Cr10-3 Cr10-4 C6-9A C6-8A Cr8-4 Cr8-5 Cr8-6 Cr8-7"/>
+    <route id="r_2" edges="Cr4-1 C2-4 C2-5 C2-6 C2-7 C2-8 C2-9 C2-10 Cr9-4 Cr9-5 Cr9-6 C4-7 C4-8 C4-9 C4-10 C4-11"/>
+    <route id="r_3" edges="Cr2-1 Cr2-2 Cr2-3"/>
+    <route id="r_4" edges="C3-2a Cr3-2 Cr3-1"/>
+    <route id="r_5" edges="C8-3 Cr4-6 Cr4-5 C7-4 C7-3 C7-2 Cr3-7 Cr3-6 Cr3-5 Cr3-4 Cr3-3 Cr3-2 Cr3-1"/>
+    <route id="r_6" edges="CR6-8 Cr6-7 Cr5-6 Cr5-5 C6-4 Cr6-8 28914221#2 28914221#3 Cr6-5 C3-4 Cr5-2 Cr5-1"/>
+    <route id="r_7" edges="CR6-9 CR6-8 Cr6-7 Cr5-6 Cr5-5 C6-4 C6-5 C6-7 C6-8 C6-9 C6-10 C6-11 C6-12 Cr13-8 Cr13-7 Cr13-6 Cr13-5 Cr13-4 Cr13-3 C4-11 C4-12"/>
+    <route id="r_8" edges="C7-10 C7-9 C7-8 C7-6 C7-5 C7-4 C7-3 C7-2 Cr3-7 Cr3-6 Cr3-5 Cr3-4 Cr3-3 Cr3-2 Cr3-1"/>
+    <route id="r_9" edges="C7-10 C7-9 C7-8 C7-6 C7-5 C7-4 C7-3 C7-2 C7-1"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0" begin="0.00" route="r_0" end="3600.00" vehsPerHour="1800"/>
+    <flow id="f_1" begin="0.00" route="r_0" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_10" begin="0.00" route="r_5" end="3600.00" vehsPerHour="395.99604003959962028603"/>
+    <flow id="f_11" begin="0.00" route="r_6" end="3600.00" vehsPerHour="351.0140405616224370533"/>
+    <flow id="f_12" begin="0.00" route="r_7" end="3600.00" vehsPerHour="151.00037750094375610388"/>
+    <flow id="f_13" begin="0.00" route="r_8" end="3600.00" vehsPerHour="64.99954861424573948625"/>
+    <flow id="f_14" begin="0.00" route="r_9" end="3600.00" vehsPerHour="91.00101112234580114091"/>
+    <flow id="f_15" begin="0.00" route="r_10" end="3600.00" vehsPerHour="67.00042805829036751675"/>
+    <flow id="f_16" begin="0.00" route="r_11" end="3600.00" vehsPerHour="46.99984333385555146378"/>
+    <flow id="f_17" begin="0.00" route="r_12" end="3600.00" vehsPerHour="34.00011333371111277302"/>
+    <flow id="f_2" begin="0.00" route="r_1" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_3" begin="0.00" route="r_1" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_4" begin="0.00" route="r_1" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_5" begin="0.00" route="r_1" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_6" begin="0.00" route="r_1" end="3600.00" vehsPerHour="386.01758524555003759815"/>
+    <flow id="f_7" begin="0.00" route="r_2" end="3600.00" vehsPerHour="100"/>
+    <flow id="f_8" begin="0.00" route="r_3" end="3600.00" vehsPerHour="94.99934028235914240668"/>
+    <flow id="f_9" begin="0.00" route="r_4" end="3600.00" vehsPerHour="94.99934028235914240668"/>
+</routes>
