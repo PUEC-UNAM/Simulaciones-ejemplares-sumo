@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+         <net-file value="./caba_bs.net.xml"/>
+         <route-files value="./trips_bs.rou.xml"/>
+    </input>
+
+    <report>
+        <verbose value="true"/>
+        <duration-log.statistics value="true"/>
+        <no-step-log value="true"/>
+
+    </report>
+    <!-- Definición de las rutas -->
+    <time>
+        <begin value="0"/>
+    </time>
+     <!-- Configuración de las salidas -->
+    <output>
+        <!-- Salida de resultados de la simulación -->
+        <!-- salida trips-->
+        <tripinfo-output value="res/trips_info.xml" />
+        <!-- Salida de emisiones de vehículos -->
+        <emission-output value="res/emisiones.xml" type="emission"/>
+        
+    </output>
+</configuration>
